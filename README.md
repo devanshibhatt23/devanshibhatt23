@@ -1,6 +1,6 @@
 ## Hi there 👋
 # About Me:
-CSE Undergrad @ MNIT Jaipur | Class of 2029<br><br>Currently working on<br>• Competitive Programming on Codeforces (CP31 sheet + contests)<br>• DSA on LeetCode (Striver's A2Z Sheet)<br>• Full-stack Web Dev with Node.js<br>• Generative AI course from Chaicode<br><br>Strong foundations in C++, DSA, OOP, and Competitive Programming.<br><br>Always curious, always building. One problem at a time.
+CSE Undergrad @ MNIT Jaipur | Class of 2029<br><br>Currently working on<br>• Competitive Programming on Codeforces <br>• DSA on LeetCode (Striver's A2Z Sheet)<br>• Full-stack Web Dev with Node.js<br>• Generative AI course from Chaicode<br><br>Strong foundations in C++, DSA, OOP, and Competitive Programming.<br><br>Always curious, always building. One problem at a time.
 
 # Socials:
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Devanshi2007) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/devanshibhatt) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/devanshibhatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshi-bhatt-23db) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dbhatt2310@gmail.com)
