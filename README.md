@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 # About Me:
 CSE Undergrad @ MNIT Jaipur | Class of 2029<br><br>Currently working on<br>• Competitive Programming on Codeforces <br>• DSA on LeetCode (Striver's A2Z Sheet)<br>• Full-stack Web Dev with Node.js<br>• Generative AI course from Chaicode<br><br>Strong foundations in C++, DSA, OOP, and Competitive Programming.<br><br>Always curious, always building. One problem at a time.
 
